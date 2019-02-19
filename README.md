@@ -1,7 +1,8 @@
 Mango
 =====
 
-[![Build Status](https://travis-ci.org/kakao/mango.svg?branch=master)](https://travis-ci.org/kakao/mango) 
+[![Build Status](https://travis-ci.org/kakao/mango.svg?branch=master)](https://travis-ci.org/kakao/mango) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2Fmango.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2Fmango?ref=badge_shield)
+
 [![GitHub version](https://badge.fury.io/gh/kakao%2Fmango.svg)](https://badge.fury.io/gh/kakao%2Fmango)
 [![Join the chat at https://gitter.im/kakao/mango](https://badges.gitter.im/kakao/mango.svg)](https://gitter.im/kakao/mango?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -128,3 +129,6 @@ Copyright 2017 Kakao Corp. <http://www.kakaocorp.com>
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhoneycindy%2Fmango.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhoneycindy%2Fmango?ref=badge_large)
